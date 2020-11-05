@@ -8,3 +8,4 @@ In the project directory, you can run:
 
 ### `yarn start`
 
+Project created using React Material-UI and Slash GraphQL
